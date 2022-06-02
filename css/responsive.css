@@ -33,6 +33,9 @@
 }
 h2 {font-size: 34px;}
 h3 {font-size: 18px;}
+ .transparent-header {
+    padding: 5px 0;
+}
 .testimonial-item-img {
     margin-right: 20px;
 }
