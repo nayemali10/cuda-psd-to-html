@@ -27,6 +27,10 @@
  
 /* Large Mobile :480px. */
 @media (max-width: 545px) {
+ .portfolio-menu button {
+    font-size: 15px;
+    padding: 3px 15px;
+}
 h2 {font-size: 34px;}
 h3 {font-size: 18px;}
 .testimonial-item-img {
