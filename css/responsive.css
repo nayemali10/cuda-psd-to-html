@@ -1,0 +1,39 @@
+/* Normal desktop :1200px. */
+@media (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (max-width: 1200px) {
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (max-width: 991px) {
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media (max-width: 545px) {
+h2 {font-size: 34px;}
+h3 {font-size: 18px;}
+.testimonial-item-img {
+    margin-right: 20px;
+}
+.footer-menu ul li {
+    margin: 0px 10px;
+}
+
+}
